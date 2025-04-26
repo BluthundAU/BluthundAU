@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BluthundAU
 - 👀 I’m interested in becoming **Immortal 3 and or Radiant** in Valorant
-- 🌱 I’m currently learning Unreal 5
+- 🌱 I’m currently learning CryEngine 
 - 💞️ I’m looking to collaborate on M
 - 📫 How to reach me Bluthund_AU@outlook.com
 - 😄 Pronouns: She/They
